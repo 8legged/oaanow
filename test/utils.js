@@ -3,6 +3,7 @@
 /*
 * From: http://www.scotchmedia.com/tutorials/express/authentication/2/02
 * Modified from https://github.com/elliotf/mocha-mongoose
+* We're setting up some utility functions to deal with Mongoose better
 */
 
 var config = require('../config');
